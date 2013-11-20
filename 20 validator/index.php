@@ -30,5 +30,6 @@ echo'
 	$nif = $_REQUEST['dni'];
 	is_nif($nif);
 ?>
+
 </body>
 </html>
