@@ -1,5 +1,6 @@
 <html>
 <<<<<<< HEAD
+<<<<<<< HEAD
 <body>
 
 <?php 
@@ -13,6 +14,8 @@ echo '<a href="index2.php?color='.$co.'">Ir a otra pagina para comprobar la cook
 ?>
 
 =======
+=======
+>>>>>>> f27666fa0c8f0f6ec95780c201ba68fd4006df57
 <head>
 	<tittle></tittle>
 </head>
@@ -30,6 +33,9 @@ setcookie("color[verde]","green", time() + 3600));
 setcookie("color[ninguno]");	
 echo   '<a href="index2.php">Rojo</a><a href="index2.php">Rojo</a><a href="index2.php">Rojo</a>';
 ?>
+<<<<<<< HEAD
+>>>>>>> f27666fa0c8f0f6ec95780c201ba68fd4006df57
+=======
 >>>>>>> f27666fa0c8f0f6ec95780c201ba68fd4006df57
 </body>
 </html>

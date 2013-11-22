@@ -1,5 +1,6 @@
 <html>
 <<<<<<< HEAD
+<<<<<<< HEAD
 <?php 
 if(isset($_REQUEST["color"])){
 	if($_REQUEST["color"]=="ninguno")
@@ -17,6 +18,8 @@ if(isset($_REQUEST["color"])){
 ?>
 
 =======
+=======
+>>>>>>> f27666fa0c8f0f6ec95780c201ba68fd4006df57
 <head>
 	<tittle></tittle>
 </head>
@@ -24,6 +27,9 @@ if(isset($_REQUEST["color"])){
 <?php
 include 'index.php';
 ?>
+<<<<<<< HEAD
+>>>>>>> f27666fa0c8f0f6ec95780c201ba68fd4006df57
+=======
 >>>>>>> f27666fa0c8f0f6ec95780c201ba68fd4006df57
 </body>
 </html>
